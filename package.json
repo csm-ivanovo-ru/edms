@@ -8,11 +8,11 @@
     },
     "author": "Sergei S. Betke",
     "devDependencies": {
-        "@commitlint/cli": "^7.6.0",
+        "@commitlint/cli": "^17.6.1",
         "cz-customizable": "^6.2.0",
         "husky": "^2.2.0"
     },
     "dependencies": {
-        "commitlint": "^8.0.0"
+        "commitlint": "^17.6.1"
     }
 }
